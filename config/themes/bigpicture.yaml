@@ -1,0 +1,18 @@
+enabled: true
+footer_icons:
+  1:
+    icon: fa-twitter
+    link: 'https://www.twitter.com/'
+  2:
+    icon: fa-facebook
+    link: 'https://www.facebook.com/'
+  3:
+    icon: fa-instagram
+    link: 'https://www.instagram.com/'
+footer_items:
+  -
+    item: '&copy; Big Picture'
+  -
+    item: 'Design: <a href="http://html5up.net">HTML5 UP</a>'
+  -
+    item: 'Images: <a href="https://pixabay.com/en/users/langll-822640/">langll</a>'
