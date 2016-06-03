@@ -13,7 +13,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: bigpicture
+  theme: big-picture
   order:
     by: default
     dir: asc
