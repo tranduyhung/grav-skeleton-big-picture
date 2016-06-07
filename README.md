@@ -27,6 +27,6 @@ You can just  install [Big Picture theme](https://github.com/tranduyhung/grav-th
 To install  **just** the theme:
 
 ```
-$ bin/gpm install bigpicture
+$ bin/gpm install big-picture
 ```
 
