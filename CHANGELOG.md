@@ -1,3 +1,9 @@
+# v1.1.0
+## 05/11/2017
+
+1. [](#improved)
+    * Updated Big Picture theme, Grav and plugins
+
 # v1.0.3
 ## 15/09/2016
 
