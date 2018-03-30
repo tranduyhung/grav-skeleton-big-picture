@@ -16,3 +16,5 @@ footer_items:
     item: 'Design: <a href="http://html5up.net">HTML5 UP</a>'
   -
     item: 'Images: <a href="https://pixabay.com/en/users/langll-822640/">langll</a>'
+  -
+    item: '<a href="sample-page">Sample Page</a>'
