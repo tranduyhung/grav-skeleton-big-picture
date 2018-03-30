@@ -1,9 +1,3 @@
-# v1.2.0
-## 05/11/2017
-
-1. [](#improved)
-    * Updated Big Picture theme
-
 # v1.1.0
 ## 30/03/2018
 
