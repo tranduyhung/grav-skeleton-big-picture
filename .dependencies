@@ -15,7 +15,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-form
         path: user/plugins/form
         branch: master
-    ceevee:
+    big-picture:
+        url: https://github.com/tranduyhung/grav-theme-big-picture
+        path: user/themes/big-picture
+        branch: master
 links:
     error:
         src: grav-plugin-error
@@ -32,4 +35,8 @@ links:
     form:
         src: grav-plugin-form
         path: user/plugins/form
+        scm: github
+    big-picture:
+        src: grav-theme-big-picture
+        path: user/themes/big-picture
         scm: github
