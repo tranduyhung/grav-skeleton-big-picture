@@ -1,3 +1,9 @@
+# v2.0.1
+## 18/12/2022
+
+1. [](#improved)
+    * Updated Big Picture theme
+
 # v2.0.0
 ## 31/03/2022
 
