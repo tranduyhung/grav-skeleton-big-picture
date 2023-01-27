@@ -1,3 +1,9 @@
+# v3.0.1
+## 27/01/2023
+
+1. [](#improved)
+    * Updated Big Picture theme
+
 # v3.0.0
 ## 27/01/2023
 
